@@ -1,6 +1,6 @@
 # SDWIS Extractor
 
-Automated data extraction tool for SDWIS (Safe Drinking Water Information System). Extract water systems, legal entities, and deficiency types with 100% coverage using a modern CLI and web interface.
+Automated data extraction tool for SDWIS (Safe Drinking Water Information System) STATE. Extract water systems, legal entities, and deficiency types with 100% coverage using a modern CLI and web interface.
 
 ## Features
 
