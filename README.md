@@ -1,6 +1,6 @@
 # SDWIS Extractor
 
-Automated data extraction tool for Mississippi SDWIS (Safe Drinking Water Information System). Extract water systems, legal entities, and deficiency types with 100% coverage using a modern CLI and web interface.
+Automated data extraction tool for SDWIS (Safe Drinking Water Information System). Extract water systems, legal entities, and deficiency types with 100% coverage using a modern CLI and web interface.
 
 ## Features
 
@@ -140,7 +140,7 @@ modules/
 ## Requirements
 
 - Python 3.11+
-- Access to Mississippi SDWIS system
+- Access to SDWIS system
 - Valid SDWIS credentials
 - Network access to SDWIS server (typically internal)
 
